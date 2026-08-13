@@ -2,7 +2,7 @@
 
 > **A real-time hand-tracking painting app — draw in the air, see it on screen.**
 
-AirCanvas Pro turns your webcam into a canvas. It uses **MediaPipe Hands** to track your hand's 21 skeletal landmarks and translates your index fingertip's movement into brush strokes, rendered live over your video feed with **OpenCV**.
+AirCanvas turns your webcam into a canvas. It uses **MediaPipe Hands** to track your hand's 21 skeletal landmarks and translates your index fingertip's movement into brush strokes, rendered live over your video feed with **OpenCV**.
 
 ---
 
